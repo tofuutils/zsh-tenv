@@ -21,7 +21,7 @@ copy the contents of [tenv.plugin.zsh](tenv.plugin.zsh) to your .zshrc
 Clone this repositoriy into your oh my zsh plugins directory
 
 ```
-git clone https://github.com/tofuutils/zsh-tenv /path/to/myzsh/plugins
+git clone https://github.com/tofuutils/zsh-tenv /path/to/myzsh/plugins/tenv
 ```
 
 add the plugin to your .zshrc plugins array 
